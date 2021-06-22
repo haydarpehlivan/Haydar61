@@ -1,6 +1,6 @@
 ### Hello world 👋
 
-**Engineer**
+**Software Engineer**
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Haydar61&count_private=true&theme=radical)](https://github.com/haydar61)
 
